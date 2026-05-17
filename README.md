@@ -207,7 +207,7 @@ Este módulo funciona como administrador principal.
 # 📂 Estructura del proyecto
 
 ```bash
-Car-Rental-System/
+PlataformaAlquilerSpringBoot/
 │
 ├── src/                      # Código fuente Java
 ├── controller/               # Controladores Spring MVC
@@ -242,7 +242,7 @@ Car-Rental-System/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/isairey/SpringBoot-Car-Rental-System.git
+git clone https://github.com/isairey/PlataformaAlquilerSpringBoot.git
 ```
 
 ---
